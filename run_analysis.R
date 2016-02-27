@@ -101,7 +101,7 @@ preresultdata <- bind_cols(resultSubjects, resulty,resultx)
 resultdata<-aggregate(. ~subject + activity, preresultdata, mean)
 resultdata<-resultdata[order(resultdata$subject,resultdata$activity),]
 write.table(resultdata, file = "tidydata.txt",row.name=FALSE)
-View(resultdata)
+#View(resultdata) 
 }
 
 
