@@ -37,6 +37,9 @@ Function is available after you run ```run_analysis.R```
 
 ## What the analysis file did:
 All transformations details I have reviewed in CodeBook.md file.
+In short: The script run_analysis.R first merges the testing and training data from the subject, X and y files. 
+Then it proceeds to extract only relevant columns and tidy up the merged files before binding all of them together.
+In final script creates a new data set as described in p.5.
 
 ## Dependencies
 
