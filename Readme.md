@@ -35,6 +35,9 @@ Or just run function download_data_set() that will make all required operations 
 Function is available after you run ```run_analysis.R```
 4. Run generate_tidy_data() function, then it will generate a new file ```tidydata.txt``` in your work directory.
 
+## What the analysis file did:
+All transformations details I have reviewed in CodeBook.md file.
+
 ## Dependencies
 
 ```run_analysis.R``` file will help you to install the dependencies automatically. It depends on ```data.table``` and ```dplyr```. 
