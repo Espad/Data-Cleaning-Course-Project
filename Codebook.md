@@ -33,6 +33,7 @@ In short, for this derived dataset, these signals were used to estimate variable
 - fBodyAccJerkMag
 - fBodyGyroMag
 - fBodyGyroJerkMag
+
 The set of variables that were estimated (and kept for this assignment) from these signals are:
 
 - mean(): Mean value
