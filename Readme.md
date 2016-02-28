@@ -26,4 +26,4 @@ Function is available after you run ```run_analysis.R```
 ## Dependencies
 
 ```run_analysis.R``` file will help you to install the dependencies automatically. It depends on ```data.table``` and ```dplyr```. 
-Development environment: Windows 8.1 x64, R version 3.2.2, 
+Development environment: Windows 8.1 x64, R version 3.2.2, RStudio Version 0.99.489.
